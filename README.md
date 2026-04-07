@@ -13,8 +13,6 @@
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   
 </div>
-  
-  ##
  
 <div> 
   <h2>Maneiras de entrar em contato:</h2> <br/>
