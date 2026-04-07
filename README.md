@@ -1,7 +1,6 @@
 ## Olá, me chamo Pedro Campos e sou estudante de tecnologia.
 📘 Atualmente cursando Desenvolvimento de Software Multiplataforma pela FATEC. <br/>
 🧑‍💻 Desenvolvedor Full Stack. <br/>
-😊 Pronomes: Ele/Dele.
 
 <div style="display: inline_block"><br>
   <h2>Linguagens de programação e marcação que tenho conhecimento:</h2> <br/>
